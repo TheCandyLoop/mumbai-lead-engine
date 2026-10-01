@@ -1,0 +1,14 @@
+[
+ {"company_name":"Skyline Cowork Bandra","category":"coworking space","address":"3rd Floor, Linking Road, Bandra West, Mumbai, Maharashtra 400050","phone":"+91 22 4000 1111","website":"https://www.skylinecowork.example","rating":4.6,"review_count":312,"maps_url":"https://maps.example/skyline-bandra"},
+ {"company_name":"Skyline Cowork - Bandra","category":"Coworking Space","address":"Linking Rd, Bandra West, Mumbai 400050","phone":"022-40001111","email":"hello@skylinecowork.example","rating":4.6,"review_count":312},
+ {"company_name":"Skyline Cowork Powai","category":"coworking space","address":"Hiranandani Gardens, Powai, Mumbai 400076","phone":"+91 22 4000 2222","website":"skylinecowork.example/powai","rating":4.4,"review_count":150},
+ {"company_name":"HiveSpace Andheri Pvt Ltd","category":"coworking space","address":"Andheri East, Mumbai 400069","phone":"+91 98200 11223","email":"team@hivespace.example","website":"https://hivespace.example","rating":4.8,"review_count":540,"social_links":{"linkedin":"https://linkedin.com/company/hivespace-example"}},
+ {"company_name":"HiveSpace Andheri","category":"coworking space","address":"Andheri East, Mumbai 400069","phone":"+919820011223","rating":4.8,"review_count":540},
+ {"company_name":"BKC Desk Hub","category":"coworking space","address":"G Block, Bandra Kurla Complex, Mumbai 400051","website":"https://bkcdeskhub.example","rating":4.1,"review_count":60},
+ {"company_name":"Lower Parel Workloft","category":"coworking space","address":"Senapati Bapat Marg, Lower Parel, Mumbai 400013","phone":"not available","email":"INFO@workloft.example","website":"www.workloft.example","rating":3.9,"review_count":22},
+ {"company_name":"Thane Tribe Cowork","category":"coworking space","address":"Ghodbunder Road, Thane 400607","phone":"+91 22 2500 3333","rating":4.2,"review_count":88},
+ {"company_name":"Navi Mumbai NestWorks","category":"coworking space","address":"Sector 17, Vashi, Navi Mumbai 400703","phone":"+91 22 2788 4444","website":"https://nestworks.example","rating":4.0,"review_count":41},
+ {"company_name":"Ghost Listing","category":"coworking space","address":"Somewhere, Mumbai"},
+ {"company_name":"","category":"coworking space","phone":"+91 22 2222 0000"},
+ {"company_name":"Goregaon Grid Spaces","category":"coworking space","address":"Film City Road, Goregaon East, Mumbai 400063","phone":"+91 98190 55667","website":"https://facebook.com/gridspaces","rating":3.5,"review_count":9}
+]

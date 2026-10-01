@@ -1,0 +1,9 @@
+requests>=2.31
+python-dotenv>=1.0
+phonenumbers>=8.13
+rapidfuzz>=3.5
+beautifulsoup4>=4.12
+pandas>=2.0
+streamlit>=1.30
+anthropic>=0.40
+pytest>=8.0
